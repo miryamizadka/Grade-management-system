@@ -1,6 +1,6 @@
 # 🎓 Grade Management System
 
-A robust and scalable **ASP.NET Core 6** application developed in **C#**, designed to efficiently manage student grades with advanced features including secure access control, detailed grade tracking, configurable parameters, and comprehensive reporting.
+**ASP.NET Core ** application developed in **C#**, designed to efficiently manage student grades with advanced features including secure access control, detailed grade tracking, configurable parameters, and comprehensive reporting.
 
 ---
 
@@ -30,16 +30,10 @@ A robust and scalable **ASP.NET Core 6** application developed in **C#**, design
 
 ## 🛠️ Technologies Used
 
-- **ASP.NET Core 6**
+- **ASP.NET Core**
 - **C#**
-- **Entity Framework Core**
-- **SQL Server / LocalDb**
 - **Dependency Injection (DI)**
 - **IOptions Configuration**
-- **Logging via ILogger**
-- **Swagger (for API documentation)**
-- **Custom Middleware for error handling**
-- **JWT (optional) for Authentication**
 
 ---
 
@@ -50,16 +44,22 @@ A robust and scalable **ASP.NET Core 6** application developed in **C#**, design
 **Request:**
 ```http
 Authorization: Bearer <token>
+```
 
 **Response:**
+```json
 {
   "studentId": "123456789",
   "grades": [90, 85, 72],
   "average": 82.3
 }
+```
 
-⚙️ Configuration Sample (appsettings.json)
+---
 
+## ⚙️ Configuration Sample (`appsettings.json`)
+
+```json
 {
   "GradeManager": {
     "MinGrade": 0,
@@ -82,22 +82,31 @@ Authorization: Bearer <token>
   },
   "AllowedHosts": "*"
 }
+```
+
+---
 
 ## 🧪 Getting Started
+
 ```bash
 git clone https://github.com/your-username/grade-management-system.git
 
-#Configure your appsettings.json
-Add your connection string and grade/password configuration as shown above.
+# Configure your appsettings.json:
+# Add your connection string and grade/password configuration as shown above.
+
 dotnet restore
 dotnet build
 dotnet ef database update
 dotnet run
-https://localhost:<port>/swagger
+```
+
+- Swagger available at: `https://localhost:<port>/swagger`
+
+---
 
 
+## 👨‍💻 Author
 
+Developed by miryamizadka.
 
-
-
-
+---
