@@ -1,0 +1,22 @@
+H:\Server\Project\GradeDO\bin\Debug\net8.0\GradeDO.deps.json
+H:\Server\Project\GradeDO\bin\Debug\net8.0\GradeDO.dll
+H:\Server\Project\GradeDO\bin\Debug\net8.0\GradeDO.pdb
+H:\Server\Project\GradeDO\obj\Debug\net8.0\GradeDO.GeneratedMSBuildEditorConfig.editorconfig
+H:\Server\Project\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfoInputs.cache
+H:\Server\Project\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfo.cs
+H:\Server\Project\GradeDO\obj\Debug\net8.0\GradeDO.csproj.CoreCompileInputs.cache
+H:\Server\Project\GradeDO\obj\Debug\net8.0\GradeDO.dll
+H:\Server\Project\GradeDO\obj\Debug\net8.0\refint\GradeDO.dll
+H:\Server\Project\GradeDO\obj\Debug\net8.0\GradeDO.pdb
+H:\Server\Project\GradeDO\obj\Debug\net8.0\ref\GradeDO.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\GradeDO\bin\Debug\net8.0\GradeDO.deps.json
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\GradeDO\bin\Debug\net8.0\GradeDO.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\GradeDO\bin\Debug\net8.0\GradeDO.pdb
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\GradeDO\obj\Debug\net8.0\GradeDO.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfoInputs.cache
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\GradeDO\obj\Debug\net8.0\GradeDO.AssemblyInfo.cs
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\GradeDO\obj\Debug\net8.0\GradeDO.csproj.CoreCompileInputs.cache
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\GradeDO\obj\Debug\net8.0\GradeDO.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\GradeDO\obj\Debug\net8.0\refint\GradeDO.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\GradeDO\obj\Debug\net8.0\GradeDO.pdb
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\GradeDO\obj\Debug\net8.0\ref\GradeDO.dll

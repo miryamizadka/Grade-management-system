@@ -1,0 +1,387 @@
+2024-12-26 12:00:22.790 +02:00 [INF] Now listening on: https://localhost:7220
+2024-12-26 12:00:22.820 +02:00 [INF] Now listening on: http://localhost:5056
+2024-12-26 12:00:22.823 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-26 12:00:22.826 +02:00 [INF] Hosting environment: Development
+2024-12-26 12:00:22.828 +02:00 [INF] Content root path: H:\server\Project\Project\Project
+2024-12-26 12:00:31.903 +02:00 [INF] Now listening on: https://localhost:7220
+2024-12-26 12:00:31.931 +02:00 [INF] Now listening on: http://localhost:5056
+2024-12-26 12:00:31.934 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-26 12:00:31.937 +02:00 [INF] Hosting environment: Development
+2024-12-26 12:00:31.939 +02:00 [INF] Content root path: H:\server\Project\Project\Project
+2024-12-26 12:01:00.968 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/ - null null
+2024-12-26 12:01:01.007 +02:00 [INF] Executing endpoint 'HTTP: GET /'
+2024-12-26 12:01:01.018 +02:00 [INF] Executed endpoint 'HTTP: GET /'
+2024-12-26 12:01:01.021 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/ - 200 null text/plain; charset=utf-8 60.6882ms
+2024-12-26 12:03:54.263 +02:00 [INF] Now listening on: https://localhost:7220
+2024-12-26 12:03:54.288 +02:00 [INF] Now listening on: http://localhost:5056
+2024-12-26 12:03:54.290 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-26 12:03:54.292 +02:00 [INF] Hosting environment: Development
+2024-12-26 12:03:54.293 +02:00 [INF] Content root path: H:\server\Project\Project\Project
+2024-12-26 12:03:57.780 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7220/ StudentManeger/Add?ID=1234&Name=m - null 0
+2024-12-26 12:03:57.811 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:7220/ StudentManeger/Add?ID=1234&Name=m - 404 0 null 35.4904ms
+2024-12-26 12:03:57.815 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: POST https://localhost:7220/%20StudentManeger/Add, Response status code: 404
+2024-12-26 12:04:30.289 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7220/ StudentManeger/Add?ID=1234&Name=m - null 0
+2024-12-26 12:04:30.294 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:7220/ StudentManeger/Add?ID=1234&Name=m - 404 0 null 5.0583ms
+2024-12-26 12:04:30.302 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: POST https://localhost:7220/%20StudentManeger/Add, Response status code: 404
+2024-12-26 12:04:44.262 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7220/ StudentManeger/Add?Name=m&ID=1234 - null 0
+2024-12-26 12:04:44.265 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:7220/ StudentManeger/Add?Name=m&ID=1234 - 404 0 null 3.4951ms
+2024-12-26 12:04:44.268 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: POST https://localhost:7220/%20StudentManeger/Add, Response status code: 404
+2024-12-26 12:05:15.278 +02:00 [INF] Now listening on: https://localhost:7220
+2024-12-26 12:05:15.301 +02:00 [INF] Now listening on: http://localhost:5056
+2024-12-26 12:05:15.303 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-26 12:05:15.305 +02:00 [INF] Hosting environment: Development
+2024-12-26 12:05:15.306 +02:00 [INF] Content root path: H:\server\Project\Project\Project
+2024-12-26 12:05:25.370 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7220/ StudentManeger/Add?Name=m&ID=1234 - null 0
+2024-12-26 12:05:25.398 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:7220/ StudentManeger/Add?Name=m&ID=1234 - 404 0 null 33.3093ms
+2024-12-26 12:05:25.404 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: POST https://localhost:7220/%20StudentManeger/Add, Response status code: 404
+2024-12-26 12:05:32.496 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7220/ StudentManeger/Add?ID=1234&Name=m - null 0
+2024-12-26 12:05:32.502 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:7220/ StudentManeger/Add?ID=1234&Name=m - 404 0 null 6.4713ms
+2024-12-26 12:05:32.505 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: POST https://localhost:7220/%20StudentManeger/Add, Response status code: 404
+2024-12-26 12:06:00.908 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7220/ api/StudentManeger/Add?ID=1234&Name=m - null 0
+2024-12-26 12:06:00.915 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:7220/ api/StudentManeger/Add?ID=1234&Name=m - 404 0 null 6.9511ms
+2024-12-26 12:06:00.922 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: POST https://localhost:7220/%20api/StudentManeger/Add, Response status code: 404
+2024-12-26 12:06:05.076 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7220/api/StudentManeger/Add?ID=1234&Name=m - null 0
+2024-12-26 12:06:05.082 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.AddStudent (Project)'
+2024-12-26 12:06:05.098 +02:00 [INF] Route matched with {action = "AddStudent", controller = "StudentManeger"}. Executing controller action with signature Void AddStudent(Project.Models.M_Student) on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:06:05.116 +02:00 [INF] Student with id: 1234 added successfully!
+2024-12-26 12:06:05.119 +02:00 [INF] Executed action Project.Controllers.StudentManegerController.AddStudent (Project) in 18.1079ms
+2024-12-26 12:06:05.121 +02:00 [INF] Executed endpoint 'Project.Controllers.StudentManegerController.AddStudent (Project)'
+2024-12-26 12:06:05.122 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:7220/api/StudentManeger/Add?ID=1234&Name=m - 200 0 null 46.409ms
+2024-12-26 12:07:02.673 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7220/api/StudentManeger/Add?ID=5678&Name=t - null 0
+2024-12-26 12:07:02.676 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.AddStudent (Project)'
+2024-12-26 12:07:02.678 +02:00 [INF] Route matched with {action = "AddStudent", controller = "StudentManeger"}. Executing controller action with signature Void AddStudent(Project.Models.M_Student) on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:07:02.680 +02:00 [INF] Student with id: 5678 added successfully!
+2024-12-26 12:07:02.682 +02:00 [INF] Executed action Project.Controllers.StudentManegerController.AddStudent (Project) in 1.8567ms
+2024-12-26 12:07:02.683 +02:00 [INF] Executed endpoint 'Project.Controllers.StudentManegerController.AddStudent (Project)'
+2024-12-26 12:07:02.685 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:7220/api/StudentManeger/Add?ID=5678&Name=t - 200 0 null 12.5449ms
+2024-12-26 12:07:50.387 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7220/api/StudentManeger/Add?ID=5678&Name=t - null 0
+2024-12-26 12:07:50.389 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.AddStudent (Project)'
+2024-12-26 12:07:50.391 +02:00 [INF] Route matched with {action = "AddStudent", controller = "StudentManeger"}. Executing controller action with signature Void AddStudent(Project.Models.M_Student) on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:10:46.532 +02:00 [INF] Now listening on: https://localhost:7220
+2024-12-26 12:10:46.556 +02:00 [INF] Now listening on: http://localhost:5056
+2024-12-26 12:10:46.558 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-26 12:10:46.560 +02:00 [INF] Hosting environment: Development
+2024-12-26 12:10:46.561 +02:00 [INF] Content root path: H:\server\Project\Project\Project
+2024-12-26 12:11:30.302 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7220/api/StudentManeger/Add?ID=3589&Name=orit - null 0
+2024-12-26 12:11:30.342 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.AddStudent (Project)'
+2024-12-26 12:11:30.365 +02:00 [INF] Route matched with {action = "AddStudent", controller = "StudentManeger"}. Executing controller action with signature Void AddStudent(Project.Models.M_Student) on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:11:30.401 +02:00 [INF] Student with id: 3589 added successfully!
+2024-12-26 12:11:30.405 +02:00 [INF] Executed action Project.Controllers.StudentManegerController.AddStudent (Project) in 34.1964ms
+2024-12-26 12:11:30.407 +02:00 [INF] Executed endpoint 'Project.Controllers.StudentManegerController.AddStudent (Project)'
+2024-12-26 12:11:30.412 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:7220/api/StudentManeger/Add?ID=3589&Name=orit - 200 0 null 116.7754ms
+2024-12-26 12:12:33.967 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7220/api/StudentManeger/Add?ID=8890&Name=miriami - null 0
+2024-12-26 12:12:33.972 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.AddStudent (Project)'
+2024-12-26 12:12:33.976 +02:00 [INF] Route matched with {action = "AddStudent", controller = "StudentManeger"}. Executing controller action with signature Void AddStudent(Project.Models.M_Student) on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:12:33.979 +02:00 [INF] Student with id: 8890 added successfully!
+2024-12-26 12:12:33.981 +02:00 [INF] Executed action Project.Controllers.StudentManegerController.AddStudent (Project) in 2.2863ms
+2024-12-26 12:12:33.982 +02:00 [INF] Executed endpoint 'Project.Controllers.StudentManegerController.AddStudent (Project)'
+2024-12-26 12:12:33.984 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:7220/api/StudentManeger/Add?ID=8890&Name=miriami - 200 0 null 17.505ms
+2024-12-26 12:14:46.966 +02:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7220/api/StudentManeger/Update?ID=8890&Name=miriamushh - null 0
+2024-12-26 12:14:46.972 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.Update (Project)'
+2024-12-26 12:14:46.977 +02:00 [INF] Route matched with {action = "Update", controller = "StudentManeger"}. Executing controller action with signature Void Update(System.String, System.String) on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:15:01.441 +02:00 [INF] Now listening on: https://localhost:7220
+2024-12-26 12:15:01.465 +02:00 [INF] Now listening on: http://localhost:5056
+2024-12-26 12:15:01.468 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-26 12:15:01.469 +02:00 [INF] Hosting environment: Development
+2024-12-26 12:15:01.471 +02:00 [INF] Content root path: H:\server\Project\Project\Project
+2024-12-26 12:16:10.296 +02:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7220/api/StudentManeger/Update?id=8890&name=miriamushh - null 0
+2024-12-26 12:16:10.335 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.Update (Project)'
+2024-12-26 12:16:10.358 +02:00 [INF] Route matched with {action = "Update", controller = "StudentManeger"}. Executing controller action with signature Void Update(System.String, System.String) on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:16:20.767 +02:00 [INF] Now listening on: https://localhost:7220
+2024-12-26 12:16:20.791 +02:00 [INF] Now listening on: http://localhost:5056
+2024-12-26 12:16:20.793 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-26 12:16:20.794 +02:00 [INF] Hosting environment: Development
+2024-12-26 12:16:20.796 +02:00 [INF] Content root path: H:\server\Project\Project\Project
+2024-12-26 12:16:43.724 +02:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7220/api/StudentManeger/Update?id=3589&name=miriamushh - null 0
+2024-12-26 12:16:43.764 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.Update (Project)'
+2024-12-26 12:16:43.787 +02:00 [INF] Route matched with {action = "Update", controller = "StudentManeger"}. Executing controller action with signature Void Update(System.String, System.String) on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:16:45.735 +02:00 [INF] Executed action Project.Controllers.StudentManegerController.Update (Project) in 1942.5426ms
+2024-12-26 12:16:45.738 +02:00 [INF] Executed endpoint 'Project.Controllers.StudentManegerController.Update (Project)'
+2024-12-26 12:16:45.743 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+GradeDO.Exceptions.StudentNotExsistException: The student with Id 3589 not exist
+   at GradeDO.Students.EditStudent(String id, String name) in H:\server\Project\GradeDO\Students.cs:line 56
+   at Project.Controllers.StudentManegerController.Update(String id, String name) in H:\server\Project\Project\Project\Controllers\StudentManegerController.cs:line 55
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.<>c__DisplayClass33_0.<WrapVoidMethod>b__0(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.VoidResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-12-26 12:16:45.788 +02:00 [INF] Request finished HTTP/1.1 PUT https://localhost:7220/api/StudentManeger/Update?id=3589&name=miriamushh - 500 null text/plain; charset=utf-8 2070.85ms
+2024-12-26 12:19:33.984 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/StudentManeger - null null
+2024-12-26 12:19:33.989 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.AllStudent (Project)'
+2024-12-26 12:19:33.996 +02:00 [INF] Route matched with {action = "AllStudent", controller = "StudentManeger"}. Executing controller action with signature System.Collections.Generic.List`1[GradeDO.Student] AllStudent() on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:19:33.999 +02:00 [INF] Show all the students' details
+2024-12-26 12:19:34.005 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[GradeDO.Student, GradeDO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-26 12:19:34.071 +02:00 [INF] Executed action Project.Controllers.StudentManegerController.AllStudent (Project) in 71.9685ms
+2024-12-26 12:19:34.073 +02:00 [INF] Executed endpoint 'Project.Controllers.StudentManegerController.AllStudent (Project)'
+2024-12-26 12:19:34.076 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/StudentManeger - 200 null application/json; charset=utf-8 92.0406ms
+2024-12-26 12:20:34.937 +02:00 [INF] Request starting HTTP/1.1 POST https://localhost:7220/api/StudentManeger/Add?ID=3589&Name=orit - null 0
+2024-12-26 12:20:34.941 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.AddStudent (Project)'
+2024-12-26 12:20:34.947 +02:00 [INF] Route matched with {action = "AddStudent", controller = "StudentManeger"}. Executing controller action with signature Void AddStudent(Project.Models.M_Student) on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:20:34.955 +02:00 [INF] Student with id: 3589 added successfully!
+2024-12-26 12:20:34.956 +02:00 [INF] Executed action Project.Controllers.StudentManegerController.AddStudent (Project) in 7.0622ms
+2024-12-26 12:20:34.958 +02:00 [INF] Executed endpoint 'Project.Controllers.StudentManegerController.AddStudent (Project)'
+2024-12-26 12:20:34.960 +02:00 [INF] Request finished HTTP/1.1 POST https://localhost:7220/api/StudentManeger/Add?ID=3589&Name=orit - 200 0 null 22.6041ms
+2024-12-26 12:20:37.904 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/StudentManeger - null null
+2024-12-26 12:20:37.907 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.AllStudent (Project)'
+2024-12-26 12:20:37.908 +02:00 [INF] Route matched with {action = "AllStudent", controller = "StudentManeger"}. Executing controller action with signature System.Collections.Generic.List`1[GradeDO.Student] AllStudent() on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:20:37.910 +02:00 [INF] Show all the students' details
+2024-12-26 12:20:37.912 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[GradeDO.Student, GradeDO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-26 12:20:37.914 +02:00 [INF] Executed action Project.Controllers.StudentManegerController.AllStudent (Project) in 4.0041ms
+2024-12-26 12:20:37.916 +02:00 [INF] Executed endpoint 'Project.Controllers.StudentManegerController.AllStudent (Project)'
+2024-12-26 12:20:37.918 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/StudentManeger - 200 null application/json; charset=utf-8 14.4827ms
+2024-12-26 12:23:11.343 +02:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7220/api/StudentManeger/Update?id=3589&name=miriami - null 0
+2024-12-26 12:23:11.346 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.Update (Project)'
+2024-12-26 12:23:11.348 +02:00 [INF] Route matched with {action = "Update", controller = "StudentManeger"}. Executing controller action with signature Void Update(System.String, System.String) on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:23:21.865 +02:00 [INF] Now listening on: https://localhost:7220
+2024-12-26 12:23:21.887 +02:00 [INF] Now listening on: http://localhost:5056
+2024-12-26 12:23:21.889 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-26 12:23:21.892 +02:00 [INF] Hosting environment: Development
+2024-12-26 12:23:21.893 +02:00 [INF] Content root path: H:\server\Project\Project\Project
+2024-12-26 12:23:39.755 +02:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7220/api/StudentManeger/Update?id=11111111&name=miriami - null 0
+2024-12-26 12:23:39.792 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.Update (Project)'
+2024-12-26 12:23:39.815 +02:00 [INF] Route matched with {action = "Update", controller = "StudentManeger"}. Executing controller action with signature Void Update(System.String, System.String) on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:23:39.846 +02:00 [INF] Updated name to student:11111111 to: miriami
+2024-12-26 12:23:39.851 +02:00 [INF] Executed action Project.Controllers.StudentManegerController.Update (Project) in 30.6101ms
+2024-12-26 12:23:39.853 +02:00 [INF] Executed endpoint 'Project.Controllers.StudentManegerController.Update (Project)'
+2024-12-26 12:23:39.857 +02:00 [INF] Request finished HTTP/1.1 PUT https://localhost:7220/api/StudentManeger/Update?id=11111111&name=miriami - 200 0 null 108.9931ms
+2024-12-26 12:25:39.494 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/StudentManeger/?id=11111111 - null null
+2024-12-26 12:25:39.534 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.AllStudent (Project)'
+2024-12-26 12:25:39.571 +02:00 [INF] Route matched with {action = "AllStudent", controller = "StudentManeger"}. Executing controller action with signature System.Collections.Generic.List`1[GradeDO.Student] AllStudent() on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:25:39.574 +02:00 [INF] Show all the students' details
+2024-12-26 12:25:39.581 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[GradeDO.Student, GradeDO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-26 12:25:39.645 +02:00 [INF] Executed action Project.Controllers.StudentManegerController.AllStudent (Project) in 71.279ms
+2024-12-26 12:25:39.648 +02:00 [INF] Executed endpoint 'Project.Controllers.StudentManegerController.AllStudent (Project)'
+2024-12-26 12:25:39.650 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/StudentManeger/?id=11111111 - 200 null application/json; charset=utf-8 155.9385ms
+2024-12-26 12:26:25.582 +02:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7220/api/StudentManeger/?id=11111111&name=miryamushhh - null 0
+2024-12-26 12:26:25.586 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-12-26 12:26:25.587 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-12-26 12:26:25.589 +02:00 [INF] Request finished HTTP/1.1 PUT https://localhost:7220/api/StudentManeger/?id=11111111&name=miryamushhh - 405 0 null 6.4657ms
+2024-12-26 12:26:44.494 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/StudentManeger/?id=11111111&name=miryamushhh - null null
+2024-12-26 12:26:44.498 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.AllStudent (Project)'
+2024-12-26 12:26:44.500 +02:00 [INF] Route matched with {action = "AllStudent", controller = "StudentManeger"}. Executing controller action with signature System.Collections.Generic.List`1[GradeDO.Student] AllStudent() on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:26:44.502 +02:00 [INF] Show all the students' details
+2024-12-26 12:26:44.504 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[GradeDO.Student, GradeDO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-26 12:26:44.506 +02:00 [INF] Executed action Project.Controllers.StudentManegerController.AllStudent (Project) in 4.7353ms
+2024-12-26 12:26:44.508 +02:00 [INF] Executed endpoint 'Project.Controllers.StudentManegerController.AllStudent (Project)'
+2024-12-26 12:26:44.510 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/StudentManeger/?id=11111111&name=miryamushhh - 200 null application/json; charset=utf-8 15.8413ms
+2024-12-26 12:26:54.972 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/StudentManeger/?id=11111111 - null null
+2024-12-26 12:26:54.975 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.AllStudent (Project)'
+2024-12-26 12:26:54.976 +02:00 [INF] Route matched with {action = "AllStudent", controller = "StudentManeger"}. Executing controller action with signature System.Collections.Generic.List`1[GradeDO.Student] AllStudent() on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:26:54.978 +02:00 [INF] Show all the students' details
+2024-12-26 12:26:54.980 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[GradeDO.Student, GradeDO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-26 12:26:54.982 +02:00 [INF] Executed action Project.Controllers.StudentManegerController.AllStudent (Project) in 3.562ms
+2024-12-26 12:26:54.983 +02:00 [INF] Executed endpoint 'Project.Controllers.StudentManegerController.AllStudent (Project)'
+2024-12-26 12:26:54.985 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/StudentManeger/?id=11111111 - 200 null application/json; charset=utf-8 13.5262ms
+2024-12-26 12:28:24.701 +02:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7220/api/StudentManeger/update?id=11111111&name=miriamush - null 0
+2024-12-26 12:28:24.708 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.Update (Project)'
+2024-12-26 12:28:24.711 +02:00 [INF] Route matched with {action = "Update", controller = "StudentManeger"}. Executing controller action with signature Void Update(System.String, System.String) on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:28:24.714 +02:00 [INF] Updated name to student:11111111 to: miriamush
+2024-12-26 12:28:24.715 +02:00 [INF] Executed action Project.Controllers.StudentManegerController.Update (Project) in 2.0187ms
+2024-12-26 12:28:24.717 +02:00 [INF] Executed endpoint 'Project.Controllers.StudentManegerController.Update (Project)'
+2024-12-26 12:28:24.719 +02:00 [INF] Request finished HTTP/1.1 PUT https://localhost:7220/api/StudentManeger/update?id=11111111&name=miriamush - 200 0 null 17.935ms
+2024-12-26 12:29:12.304 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/StudentManeger/show?id=11111111 - null null
+2024-12-26 12:29:12.307 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.ShowStudent (Project)'
+2024-12-26 12:29:12.310 +02:00 [INF] Route matched with {action = "ShowStudent", controller = "StudentManeger"}. Executing controller action with signature GradeDO.Student ShowStudent(System.String) on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:29:12.313 +02:00 [INF] Student 11111111's details had shown successfully
+2024-12-26 12:29:12.315 +02:00 [INF] Executing ObjectResult, writing value of type 'GradeDO.Student'.
+2024-12-26 12:29:12.316 +02:00 [INF] Executed action Project.Controllers.StudentManegerController.ShowStudent (Project) in 4.0199ms
+2024-12-26 12:29:12.322 +02:00 [INF] Executed endpoint 'Project.Controllers.StudentManegerController.ShowStudent (Project)'
+2024-12-26 12:29:12.323 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/StudentManeger/show?id=11111111 - 200 null application/json; charset=utf-8 19.5402ms
+2024-12-26 12:31:22.511 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/StudentManeger/Delete?id=11111111 - null null
+2024-12-26 12:31:22.513 +02:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-12-26 12:31:22.515 +02:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-12-26 12:31:22.516 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/StudentManeger/Delete?id=11111111 - 405 0 null 5.8197ms
+2024-12-26 12:31:27.417 +02:00 [INF] Request starting HTTP/1.1 DELETE https://localhost:7220/api/StudentManeger/Delete?id=11111111 - null null
+2024-12-26 12:31:27.421 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.Delete (Project)'
+2024-12-26 12:31:27.424 +02:00 [INF] Route matched with {action = "Delete", controller = "StudentManeger"}. Executing controller action with signature Void Delete(System.String) on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:31:27.427 +02:00 [INF] The student 11111111 Deleted
+2024-12-26 12:31:27.428 +02:00 [INF] Executed action Project.Controllers.StudentManegerController.Delete (Project) in 2.0241ms
+2024-12-26 12:31:27.430 +02:00 [INF] Executed endpoint 'Project.Controllers.StudentManegerController.Delete (Project)'
+2024-12-26 12:31:27.431 +02:00 [INF] Request finished HTTP/1.1 DELETE https://localhost:7220/api/StudentManeger/Delete?id=11111111 - 200 0 null 14.14ms
+2024-12-26 12:31:46.242 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/StudentManeger - null null
+2024-12-26 12:31:46.245 +02:00 [INF] Executing endpoint 'Project.Controllers.StudentManegerController.AllStudent (Project)'
+2024-12-26 12:31:46.246 +02:00 [INF] Route matched with {action = "AllStudent", controller = "StudentManeger"}. Executing controller action with signature System.Collections.Generic.List`1[GradeDO.Student] AllStudent() on controller Project.Controllers.StudentManegerController (Project).
+2024-12-26 12:31:46.248 +02:00 [INF] Show all the students' details
+2024-12-26 12:31:46.250 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[GradeDO.Student, GradeDO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-12-26 12:31:46.252 +02:00 [INF] Executed action Project.Controllers.StudentManegerController.AllStudent (Project) in 3.7686ms
+2024-12-26 12:31:46.254 +02:00 [INF] Executed endpoint 'Project.Controllers.StudentManegerController.AllStudent (Project)'
+2024-12-26 12:31:46.255 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/StudentManeger - 200 null application/json; charset=utf-8 13.3745ms
+2024-12-26 13:02:58.250 +02:00 [INF] Now listening on: https://localhost:7220
+2024-12-26 13:02:58.273 +02:00 [INF] Now listening on: http://localhost:5056
+2024-12-26 13:02:58.276 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-26 13:02:58.277 +02:00 [INF] Hosting environment: Development
+2024-12-26 13:02:58.279 +02:00 [INF] Content root path: H:\server\Project\Project\Project
+2024-12-26 13:02:58.814 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7220/ - null null
+2024-12-26 13:02:58.902 +02:00 [INF] Executing endpoint 'HTTP: GET /'
+2024-12-26 13:02:58.906 +02:00 [INF] Executed endpoint 'HTTP: GET /'
+2024-12-26 13:02:58.909 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7220/ - 200 null text/plain; charset=utf-8 98.8757ms
+2024-12-26 13:02:58.922 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7220/favicon.ico - null null
+2024-12-26 13:02:58.926 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7220/favicon.ico - 404 0 null 3.7773ms
+2024-12-26 13:02:58.932 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7220/favicon.ico, Response status code: 404
+2024-12-26 13:03:00.035 +02:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7220/api/GradeManager/InsertGrades?code=1 - application/json 89
+2024-12-26 13:03:00.038 +02:00 [INF] Executing endpoint 'Project.Controllers.GradeManagerController.InsertGradesToStudent (Project)'
+2024-12-26 13:03:00.052 +02:00 [INF] Route matched with {action = "InsertGradesToStudent", controller = "GradeManager"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult InsertGradesToStudent(Int32, Project.Models.InsertGrades) on controller Project.Controllers.GradeManagerController (Project).
+2024-12-26 13:03:00.112 +02:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2024-12-26 13:03:00.134 +02:00 [INF] Executed action Project.Controllers.GradeManagerController.InsertGradesToStudent (Project) in 78.3726ms
+2024-12-26 13:03:00.136 +02:00 [INF] Executed endpoint 'Project.Controllers.GradeManagerController.InsertGradesToStudent (Project)'
+2024-12-26 13:03:00.138 +02:00 [INF] Request finished HTTP/1.1 PUT https://localhost:7220/api/GradeManager/InsertGrades?code=1 - 400 null application/problem+json; charset=utf-8 103.1539ms
+2024-12-26 13:06:22.044 +02:00 [INF] Now listening on: https://localhost:7220
+2024-12-26 13:06:22.067 +02:00 [INF] Now listening on: http://localhost:5056
+2024-12-26 13:06:22.069 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-26 13:06:22.071 +02:00 [INF] Hosting environment: Development
+2024-12-26 13:06:22.072 +02:00 [INF] Content root path: H:\server\Project\Project\Project
+2024-12-26 13:06:22.542 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7220/ - null null
+2024-12-26 13:06:22.612 +02:00 [INF] Executing endpoint 'HTTP: GET /'
+2024-12-26 13:06:22.615 +02:00 [INF] Executed endpoint 'HTTP: GET /'
+2024-12-26 13:06:22.619 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7220/ - 200 null text/plain; charset=utf-8 80.8073ms
+2024-12-26 13:06:50.840 +02:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7220/api/GradeManager/InsertGrades?code=1 - application/json 80
+2024-12-26 13:06:50.847 +02:00 [INF] Executing endpoint 'Project.Controllers.GradeManagerController.InsertGradesToStudent (Project)'
+2024-12-26 13:06:50.869 +02:00 [INF] Route matched with {action = "InsertGradesToStudent", controller = "GradeManager"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult InsertGradesToStudent(Int32, Project.Models.InsertGrades) on controller Project.Controllers.GradeManagerController (Project).
+2024-12-26 13:06:50.975 +02:00 [INF] Grades inserted successfully for exe number: 1
+2024-12-26 13:06:50.980 +02:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-12-26 13:06:50.984 +02:00 [INF] Executed action Project.Controllers.GradeManagerController.InsertGradesToStudent (Project) in 110.0355ms
+2024-12-26 13:06:50.986 +02:00 [INF] Executed endpoint 'Project.Controllers.GradeManagerController.InsertGradesToStudent (Project)'
+2024-12-26 13:06:50.988 +02:00 [INF] Request finished HTTP/1.1 PUT https://localhost:7220/api/GradeManager/InsertGrades?code=1 - 200 0 null 148.4959ms
+2024-12-26 13:09:01.275 +02:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7220/api/GradeManager/InsertGrades?code=1 - application/json 80
+2024-12-26 13:09:01.281 +02:00 [INF] Executing endpoint 'Project.Controllers.GradeManagerController.InsertGradesToStudent (Project)'
+2024-12-26 13:09:01.282 +02:00 [INF] Route matched with {action = "InsertGradesToStudent", controller = "GradeManager"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult InsertGradesToStudent(Int32, Project.Models.InsertGrades) on controller Project.Controllers.GradeManagerController (Project).
+2024-12-26 13:09:01.286 +02:00 [INF] Grades inserted successfully for exe number: 1
+2024-12-26 13:09:01.287 +02:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-12-26 13:09:01.289 +02:00 [INF] Executed action Project.Controllers.GradeManagerController.InsertGradesToStudent (Project) in 4.0824ms
+2024-12-26 13:09:01.291 +02:00 [INF] Executed endpoint 'Project.Controllers.GradeManagerController.InsertGradesToStudent (Project)'
+2024-12-26 13:09:01.292 +02:00 [INF] Request finished HTTP/1.1 PUT https://localhost:7220/api/GradeManager/InsertGrades?code=1 - 200 0 null 17.1007ms
+2024-12-26 13:09:37.100 +02:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7220/api/GradeManager/InsertGrades?code=1 - application/json 65
+2024-12-26 13:09:37.105 +02:00 [INF] Executing endpoint 'Project.Controllers.GradeManagerController.InsertGradesToStudent (Project)'
+2024-12-26 13:09:37.107 +02:00 [INF] Route matched with {action = "InsertGradesToStudent", controller = "GradeManager"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult InsertGradesToStudent(Int32, Project.Models.InsertGrades) on controller Project.Controllers.GradeManagerController (Project).
+2024-12-26 13:09:37.109 +02:00 [INF] Grades inserted successfully for exe number: 1
+2024-12-26 13:09:37.111 +02:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-12-26 13:09:37.112 +02:00 [INF] Executed action Project.Controllers.GradeManagerController.InsertGradesToStudent (Project) in 3.4331ms
+2024-12-26 13:09:37.114 +02:00 [INF] Executed endpoint 'Project.Controllers.GradeManagerController.InsertGradesToStudent (Project)'
+2024-12-26 13:09:37.115 +02:00 [INF] Request finished HTTP/1.1 PUT https://localhost:7220/api/GradeManager/InsertGrades?code=1 - 200 0 null 16.2789ms
+2024-12-26 13:11:53.825 +02:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7220/api/GradeManager/Update?id=22222222&ExeNumber=2&GradeNumber=6 - null 0
+2024-12-26 13:11:53.832 +02:00 [INF] Executing endpoint 'Project.Controllers.GradeManagerController.UpdateGrade (Project)'
+2024-12-26 13:11:53.837 +02:00 [INF] Route matched with {action = "UpdateGrade", controller = "GradeManager"}. Executing controller action with signature Void UpdateGrade(System.String, Project.Models.M_Grade) on controller Project.Controllers.GradeManagerController (Project).
+2024-12-26 13:11:53.858 +02:00 [INF] The grade in exe number:2 had updated successfully to 6 for student: 22222222
+2024-12-26 13:11:53.865 +02:00 [INF] Executed action Project.Controllers.GradeManagerController.UpdateGrade (Project) in 15.8614ms
+2024-12-26 13:11:53.872 +02:00 [INF] Executed endpoint 'Project.Controllers.GradeManagerController.UpdateGrade (Project)'
+2024-12-26 13:11:53.882 +02:00 [INF] Request finished HTTP/1.1 PUT https://localhost:7220/api/GradeManager/Update?id=22222222&ExeNumber=2&GradeNumber=6 - 200 0 null 57.2224ms
+2024-12-26 13:11:59.738 +02:00 [INF] Request starting HTTP/1.1 PUT https://localhost:7220/api/GradeManager/Update?id=22222222&ExeNumber=2&GradeNumber=69 - null 0
+2024-12-26 13:11:59.741 +02:00 [INF] Executing endpoint 'Project.Controllers.GradeManagerController.UpdateGrade (Project)'
+2024-12-26 13:11:59.743 +02:00 [INF] Route matched with {action = "UpdateGrade", controller = "GradeManager"}. Executing controller action with signature Void UpdateGrade(System.String, Project.Models.M_Grade) on controller Project.Controllers.GradeManagerController (Project).
+2024-12-26 13:11:59.745 +02:00 [INF] The grade in exe number:2 had updated successfully to 69 for student: 22222222
+2024-12-26 13:11:59.747 +02:00 [INF] Executed action Project.Controllers.GradeManagerController.UpdateGrade (Project) in 1.858ms
+2024-12-26 13:11:59.748 +02:00 [INF] Executed endpoint 'Project.Controllers.GradeManagerController.UpdateGrade (Project)'
+2024-12-26 13:11:59.750 +02:00 [INF] Request finished HTTP/1.1 PUT https://localhost:7220/api/GradeManager/Update?id=22222222&ExeNumber=2&GradeNumber=69 - 200 0 null 12.104ms
+2024-12-26 13:13:03.660 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/GradeManager/ShowGrade?code=22222222 - null null
+2024-12-26 13:13:03.662 +02:00 [INF] Executing endpoint 'Project.Controllers.GradeManagerController.ShowGrade (Project)'
+2024-12-26 13:13:03.666 +02:00 [INF] Route matched with {action = "ShowGrade", controller = "GradeManager"}. Executing controller action with signature System.Collections.Generic.List`1[System.Int32] ShowGrade(Int32) on controller Project.Controllers.GradeManagerController (Project).
+2024-12-26 13:13:03.669 +02:00 [INF] Show grades for exe number: 22222222
+2024-12-26 13:13:03.675 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-12-26 13:13:03.690 +02:00 [INF] Executed action Project.Controllers.GradeManagerController.ShowGrade (Project) in 21.1032ms
+2024-12-26 13:13:03.692 +02:00 [INF] Executed endpoint 'Project.Controllers.GradeManagerController.ShowGrade (Project)'
+2024-12-26 13:13:03.693 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/GradeManager/ShowGrade?code=22222222 - 200 null application/json; charset=utf-8 33.5812ms
+2024-12-26 13:13:25.415 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/GradeManager/ShowGrade?code=1 - null null
+2024-12-26 13:13:25.421 +02:00 [INF] Executing endpoint 'Project.Controllers.GradeManagerController.ShowGrade (Project)'
+2024-12-26 13:13:25.422 +02:00 [INF] Route matched with {action = "ShowGrade", controller = "GradeManager"}. Executing controller action with signature System.Collections.Generic.List`1[System.Int32] ShowGrade(Int32) on controller Project.Controllers.GradeManagerController (Project).
+2024-12-26 13:13:25.425 +02:00 [INF] Show grades for exe number: 1
+2024-12-26 13:13:25.427 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-12-26 13:13:25.430 +02:00 [INF] Executed action Project.Controllers.GradeManagerController.ShowGrade (Project) in 4.5741ms
+2024-12-26 13:13:25.432 +02:00 [INF] Executed endpoint 'Project.Controllers.GradeManagerController.ShowGrade (Project)'
+2024-12-26 13:13:25.434 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/GradeManager/ShowGrade?code=1 - 200 null application/json; charset=utf-8 19.4197ms
+2024-12-26 13:13:33.670 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/GradeManager/ShowGrade?code=2 - null null
+2024-12-26 13:13:33.673 +02:00 [INF] Executing endpoint 'Project.Controllers.GradeManagerController.ShowGrade (Project)'
+2024-12-26 13:13:33.675 +02:00 [INF] Route matched with {action = "ShowGrade", controller = "GradeManager"}. Executing controller action with signature System.Collections.Generic.List`1[System.Int32] ShowGrade(Int32) on controller Project.Controllers.GradeManagerController (Project).
+2024-12-26 13:13:33.677 +02:00 [INF] Show grades for exe number: 2
+2024-12-26 13:13:33.678 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-12-26 13:13:33.680 +02:00 [INF] Executed action Project.Controllers.GradeManagerController.ShowGrade (Project) in 3.1272ms
+2024-12-26 13:13:33.682 +02:00 [INF] Executed endpoint 'Project.Controllers.GradeManagerController.ShowGrade (Project)'
+2024-12-26 13:13:33.683 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/GradeManager/ShowGrade?code=2 - 200 null application/json; charset=utf-8 13.0797ms
+2024-12-26 13:14:43.690 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/GradeManager/CalcGrade?id=22222222 - null null
+2024-12-26 13:14:43.694 +02:00 [INF] Executing endpoint 'Project.Controllers.GradeManagerController.FinalGrade (Project)'
+2024-12-26 13:14:43.697 +02:00 [INF] Route matched with {action = "FinalGrade", controller = "GradeManager"}. Executing controller action with signature Int32 FinalGrade(System.String) on controller Project.Controllers.GradeManagerController (Project).
+2024-12-26 13:14:43.701 +02:00 [INF] Final grade for student id: 22222222 calculated successfully
+2024-12-26 13:14:43.704 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Int32'.
+2024-12-26 13:14:43.708 +02:00 [INF] Executed action Project.Controllers.GradeManagerController.FinalGrade (Project) in 8.287ms
+2024-12-26 13:14:43.709 +02:00 [INF] Executed endpoint 'Project.Controllers.GradeManagerController.FinalGrade (Project)'
+2024-12-26 13:14:43.711 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/GradeManager/CalcGrade?id=22222222 - 200 null application/json; charset=utf-8 23.5251ms
+2024-12-26 13:15:49.595 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/GradeManager - null null
+2024-12-26 13:15:49.598 +02:00 [INF] Executing endpoint 'Project.Controllers.GradeManagerController.ShowAll (Project)'
+2024-12-26 13:15:49.601 +02:00 [INF] Route matched with {action = "ShowAll", controller = "GradeManager"}. Executing controller action with signature System.Collections.Generic.Dictionary`2[System.Int32,System.Collections.Generic.List`1[System.Int32]] ShowAll() on controller Project.Controllers.GradeManagerController (Project).
+2024-12-26 13:15:49.604 +02:00 [INF] Show final grades for all the students
+2024-12-26 13:15:49.605 +02:00 [INF] Executing ObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-12-26 13:15:49.611 +02:00 [INF] Executed action Project.Controllers.GradeManagerController.ShowAll (Project) in 7.1715ms
+2024-12-26 13:15:49.613 +02:00 [INF] Executed endpoint 'Project.Controllers.GradeManagerController.ShowAll (Project)'
+2024-12-26 13:15:49.614 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/GradeManager - 200 null application/json; charset=utf-8 21.2171ms
+2024-12-26 13:18:33.246 +02:00 [INF] Now listening on: https://localhost:7220
+2024-12-26 13:18:33.272 +02:00 [INF] Now listening on: http://localhost:5056
+2024-12-26 13:18:33.275 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-26 13:18:33.279 +02:00 [INF] Hosting environment: Development
+2024-12-26 13:18:33.280 +02:00 [INF] Content root path: H:\server\Project\Project\Project
+2024-12-26 13:18:33.699 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7220/ - null null
+2024-12-26 13:18:33.779 +02:00 [INF] Executing endpoint 'HTTP: GET /'
+2024-12-26 13:18:33.786 +02:00 [INF] Executed endpoint 'HTTP: GET /'
+2024-12-26 13:18:33.793 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7220/ - 200 null text/plain; charset=utf-8 97.6235ms
+2024-12-26 13:18:35.994 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/ WatchingGrade/Last?id=22222222&pass=22222222 - null null
+2024-12-26 13:18:36.005 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/ WatchingGrade/Last?id=22222222&pass=22222222 - 404 0 null 10.7209ms
+2024-12-26 13:18:36.009 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7220/api/%20WatchingGrade/Last, Response status code: 404
+2024-12-26 13:19:03.806 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/ WatchingGrade/Last?id=33333333&pass=33333333 - null null
+2024-12-26 13:19:03.812 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/ WatchingGrade/Last?id=33333333&pass=33333333 - 404 0 null 6.3362ms
+2024-12-26 13:19:03.815 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7220/api/%20WatchingGrade/Last, Response status code: 404
+2024-12-26 13:19:57.734 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/ WatchingGrade/Last?id=33333333&pass=33333333 - null null
+2024-12-26 13:19:57.752 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/ WatchingGrade/Last?id=33333333&pass=33333333 - 404 0 null 20.8363ms
+2024-12-26 13:19:57.772 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7220/api/%20WatchingGrade/Last, Response status code: 404
+2024-12-26 13:20:10.943 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/ WatchingGrade/Last?id=33333333&pass=33333333 - null null
+2024-12-26 13:20:10.945 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/ WatchingGrade/Last?id=33333333&pass=33333333 - 404 0 null 2.812ms
+2024-12-26 13:20:10.948 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7220/api/%20WatchingGrade/Last, Response status code: 404
+2024-12-26 13:21:09.755 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/ WatchingGrade/Last?id=33333333&pass=33333333 - null null
+2024-12-26 13:21:09.759 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/ WatchingGrade/Last?id=33333333&pass=33333333 - 404 0 null 5.7097ms
+2024-12-26 13:21:09.762 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7220/api/%20WatchingGrade/Last, Response status code: 404
+2024-12-26 13:21:20.085 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/WatchingGrade/Last?id=33333333&pass=33333333 - null null
+2024-12-26 13:21:20.090 +02:00 [INF] Executing endpoint 'Project.Controllers.WatchingGradeController.WatchLastGrade (Project)'
+2024-12-26 13:21:20.112 +02:00 [INF] Route matched with {action = "WatchLastGrade", controller = "WatchingGrade"}. Executing controller action with signature System.String WatchLastGrade(System.String, System.String) on controller Project.Controllers.WatchingGradeController (Project).
+2024-12-26 13:21:20.142 +02:00 [INF] Watching the last grade for student with id: 33333333, password: 33333333 has shown successfully!
+Last grade:100, class average for this exe number:90.66666666666667
+2024-12-26 13:21:20.149 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2024-12-26 13:21:20.154 +02:00 [INF] Executed action Project.Controllers.WatchingGradeController.WatchLastGrade (Project) in 36.9298ms
+2024-12-26 13:21:20.156 +02:00 [INF] Executed endpoint 'Project.Controllers.WatchingGradeController.WatchLastGrade (Project)'
+2024-12-26 13:21:20.158 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/WatchingGrade/Last?id=33333333&pass=33333333 - 200 null text/plain; charset=utf-8 72.1637ms
+2024-12-26 13:23:29.317 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/WatchingGrade/Wanted?id=33333333&pass=33333333&code=2 - null null
+2024-12-26 13:23:29.321 +02:00 [INF] Executing endpoint 'Project.Controllers.WatchingGradeController.WatcWantedGrade (Project)'
+2024-12-26 13:23:29.325 +02:00 [INF] Route matched with {action = "WatcWantedGrade", controller = "WatchingGrade"}. Executing controller action with signature System.String WatcWantedGrade(System.String, System.String, Int32) on controller Project.Controllers.WatchingGradeController (Project).
+2024-12-26 13:23:29.333 +02:00 [INF] Watching the grades for exe num: 2, for student with id: 33333333 password: 33333333 has shown successfully!
+Wanted grade:90, class average for this exe number:88.33333333333333
+2024-12-26 13:23:29.335 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2024-12-26 13:23:29.337 +02:00 [INF] Executed action Project.Controllers.WatchingGradeController.WatcWantedGrade (Project) in 8.9423ms
+2024-12-26 13:23:29.339 +02:00 [INF] Executed endpoint 'Project.Controllers.WatchingGradeController.WatcWantedGrade (Project)'
+2024-12-26 13:23:29.340 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/WatchingGrade/Wanted?id=33333333&pass=33333333&code=2 - 200 null text/plain; charset=utf-8 23.5349ms
+2024-12-26 13:24:32.660 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/WatchingGrade/TestGrade?id=22222222&pass=22222222 - null null
+2024-12-26 13:24:32.666 +02:00 [INF] Executing endpoint 'Project.Controllers.WatchingGradeController.WatchTestGrade (Project)'
+2024-12-26 13:24:32.670 +02:00 [INF] Route matched with {action = "WatchTestGrade", controller = "WatchingGrade"}. Executing controller action with signature System.String WatchTestGrade(System.String, System.String) on controller Project.Controllers.WatchingGradeController (Project).
+2024-12-26 13:24:32.673 +02:00 [INF] Watchint the test grade for student id:22222222, password22222222 has shown successfully!
+Test grade:99, class average for this exe number:99
+2024-12-26 13:24:32.675 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2024-12-26 13:24:32.677 +02:00 [INF] Executed action Project.Controllers.WatchingGradeController.WatchTestGrade (Project) in 4.6621ms
+2024-12-26 13:24:32.678 +02:00 [INF] Executed endpoint 'Project.Controllers.WatchingGradeController.WatchTestGrade (Project)'
+2024-12-26 13:24:32.680 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/WatchingGrade/TestGrade?id=22222222&pass=22222222 - 200 null text/plain; charset=utf-8 19.8774ms
+2024-12-26 13:25:36.347 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7220/api/WatchingGrade/FinalGrade?id=33333333&pass=33333333 - null null
+2024-12-26 13:25:36.352 +02:00 [INF] Executing endpoint 'Project.Controllers.WatchingGradeController.WatchFinalGrade (Project)'
+2024-12-26 13:25:36.355 +02:00 [INF] Route matched with {action = "WatchFinalGrade", controller = "WatchingGrade"}. Executing controller action with signature System.String WatchFinalGrade(System.String, System.String) on controller Project.Controllers.WatchingGradeController (Project).
+2024-12-26 13:25:36.359 +02:00 [INF] Watchint the final grade for student id:33333333, password33333333 has shown successfully!
+"Final grade:96
+2024-12-26 13:25:36.361 +02:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2024-12-26 13:25:36.363 +02:00 [INF] Executed action Project.Controllers.WatchingGradeController.WatchFinalGrade (Project) in 5.1966ms
+2024-12-26 13:25:36.364 +02:00 [INF] Executed endpoint 'Project.Controllers.WatchingGradeController.WatchFinalGrade (Project)'
+2024-12-26 13:25:36.366 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7220/api/WatchingGrade/FinalGrade?id=33333333&pass=33333333 - 200 null text/plain; charset=utf-8 19.468ms

@@ -1,0 +1,12 @@
+2025-01-08 14:44:29.047 +02:00 [INF] Now listening on: https://localhost:7220
+2025-01-08 14:44:29.078 +02:00 [INF] Now listening on: http://localhost:5056
+2025-01-08 14:44:29.080 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-08 14:44:29.082 +02:00 [INF] Hosting environment: Development
+2025-01-08 14:44:29.083 +02:00 [INF] Content root path: I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project
+2025-01-08 14:44:31.645 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7220/ - null null
+2025-01-08 14:44:31.770 +02:00 [INF] Executing endpoint 'HTTP: GET /'
+2025-01-08 14:44:31.776 +02:00 [INF] Executed endpoint 'HTTP: GET /'
+2025-01-08 14:44:31.805 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7220/ - 200 null text/plain; charset=utf-8 163.767ms
+2025-01-08 14:44:31.817 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7220/favicon.ico - null null
+2025-01-08 14:44:31.874 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7220/favicon.ico - 404 0 null 56.6492ms
+2025-01-08 14:44:31.908 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7220/favicon.ico, Response status code: 404

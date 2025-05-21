@@ -1,0 +1,450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\project\\controllers\\watchinggradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|solutionrelative:project\\controllers\\watchinggradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\project\\controllers\\studentmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|solutionrelative:project\\controllers\\studentmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\project\\controllers\\errorshandlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|solutionrelative:project\\controllers\\errorshandlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\project\\controllers\\grademanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|solutionrelative:project\\controllers\\grademanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\project\\configuration\\passwordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|solutionrelative:project\\configuration\\passwordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\project\\configuration\\grademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|solutionrelative:project\\configuration\\grademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|solutionrelative:project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7639518-07D0-48EF-AA28-BF89541B5D3B}|GradeDO\\GradeDO.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\gradedo\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7639518-07D0-48EF-AA28-BF89541B5D3B}|GradeDO\\GradeDO.csproj|solutionrelative:gradedo\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7639518-07D0-48EF-AA28-BF89541B5D3B}|GradeDO\\GradeDO.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\gradedo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7639518-07D0-48EF-AA28-BF89541B5D3B}|GradeDO\\GradeDO.csproj|solutionrelative:gradedo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7639518-07D0-48EF-AA28-BF89541B5D3B}|GradeDO\\GradeDO.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\gradedo\\istudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7639518-07D0-48EF-AA28-BF89541B5D3B}|GradeDO\\GradeDO.csproj|solutionrelative:gradedo\\istudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7639518-07D0-48EF-AA28-BF89541B5D3B}|GradeDO\\GradeDO.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\gradedo\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7639518-07D0-48EF-AA28-BF89541B5D3B}|GradeDO\\GradeDO.csproj|solutionrelative:gradedo\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7639518-07D0-48EF-AA28-BF89541B5D3B}|GradeDO\\GradeDO.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\gradedo\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7639518-07D0-48EF-AA28-BF89541B5D3B}|GradeDO\\GradeDO.csproj|solutionrelative:gradedo\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7639518-07D0-48EF-AA28-BF89541B5D3B}|GradeDO\\GradeDO.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\gradedo\\exceptions\\studentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7639518-07D0-48EF-AA28-BF89541B5D3B}|GradeDO\\GradeDO.csproj|solutionrelative:gradedo\\exceptions\\studentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7639518-07D0-48EF-AA28-BF89541B5D3B}|GradeDO\\GradeDO.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\gradedo\\exceptions\\gradesexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7639518-07D0-48EF-AA28-BF89541B5D3B}|GradeDO\\GradeDO.csproj|solutionrelative:gradedo\\exceptions\\gradesexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\project\\models\\m_grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|solutionrelative:project\\models\\m_grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\project\\models\\m_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|solutionrelative:project\\models\\m_student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\project\\services\\ipasswordmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|solutionrelative:project\\services\\ipasswordmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\project\\services\\igrademanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|solutionrelative:project\\services\\igrademanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\project\\models\\insertgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|solutionrelative:project\\models\\insertgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\project\\services\\passwordmanagemant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|solutionrelative:project\\services\\passwordmanagemant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\project\\services\\grademanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|solutionrelative:project\\services\\grademanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\project\\logs\\log-20241226.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|solutionrelative:project\\logs\\log-20241226.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\project\\logs\\log-20241215.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|solutionrelative:project\\logs\\log-20241215.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\project\\project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E70BC1FD-B0F3-4A9B-BEE8-1B9339DBBA0C}|Project\\Project.csproj|solutionrelative:project\\project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7639518-07D0-48EF-AA28-BF89541B5D3B}|GradeDO\\GradeDO.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\gradedo\\gradedo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7639518-07D0-48EF-AA28-BF89541B5D3B}|GradeDO\\GradeDO.csproj|solutionrelative:gradedo\\gradedo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GradeManager.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Configuration\\GradeManager.cs",
+              "RelativeDocumentMoniker": "Project\\Configuration\\GradeManager.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Configuration\\GradeManager.cs",
+              "RelativeToolTip": "Project\\Configuration\\GradeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:42:09.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordManager.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Configuration\\PasswordManager.cs",
+              "RelativeDocumentMoniker": "Project\\Configuration\\PasswordManager.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Configuration\\PasswordManager.cs",
+              "RelativeToolTip": "Project\\Configuration\\PasswordManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:37:18.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorsHandlerController.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Controllers\\ErrorsHandlerController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\ErrorsHandlerController.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Controllers\\ErrorsHandlerController.cs",
+              "RelativeToolTip": "Project\\Controllers\\ErrorsHandlerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:37:44.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GradeManagerController.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Controllers\\GradeManagerController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\GradeManagerController.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Controllers\\GradeManagerController.cs",
+              "RelativeToolTip": "Project\\Controllers\\GradeManagerController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwD8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:39:58.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentManagerController.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Controllers\\StudentManagerController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\StudentManagerController.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Controllers\\StudentManagerController.cs",
+              "RelativeToolTip": "Project\\Controllers\\StudentManagerController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:41:33.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WatchingGradeController.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Controllers\\WatchingGradeController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\WatchingGradeController.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Controllers\\WatchingGradeController.cs",
+              "RelativeToolTip": "Project\\Controllers\\WatchingGradeController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:41:38.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Project\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Project\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T12:41:52.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Students.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\GradeDO\\Students.cs",
+              "RelativeDocumentMoniker": "GradeDO\\Students.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\GradeDO\\Students.cs",
+              "RelativeToolTip": "GradeDO\\Students.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAuwBIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:41:29.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\GradeDO\\Student.cs",
+              "RelativeDocumentMoniker": "GradeDO\\Student.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\GradeDO\\Student.cs",
+              "RelativeToolTip": "GradeDO\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:41:28.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudents.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\GradeDO\\IStudents.cs",
+              "RelativeDocumentMoniker": "GradeDO\\IStudents.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\GradeDO\\IStudents.cs",
+              "RelativeToolTip": "GradeDO\\IStudents.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:41:27.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\GradeDO\\Grade.cs",
+              "RelativeDocumentMoniker": "GradeDO\\Grade.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\GradeDO\\Grade.cs",
+              "RelativeToolTip": "GradeDO\\Grade.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:41:26.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataSource.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\GradeDO\\DataSource.cs",
+              "RelativeDocumentMoniker": "GradeDO\\DataSource.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\GradeDO\\DataSource.cs",
+              "RelativeToolTip": "GradeDO\\DataSource.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:41:25.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentException.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\GradeDO\\Exceptions\\StudentException.cs",
+              "RelativeDocumentMoniker": "GradeDO\\Exceptions\\StudentException.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\GradeDO\\Exceptions\\StudentException.cs",
+              "RelativeToolTip": "GradeDO\\Exceptions\\StudentException.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wCAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:41:24.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GradesExceptions.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\GradeDO\\Exceptions\\GradesExceptions.cs",
+              "RelativeDocumentMoniker": "GradeDO\\Exceptions\\GradesExceptions.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\GradeDO\\Exceptions\\GradesExceptions.cs",
+              "RelativeToolTip": "GradeDO\\Exceptions\\GradesExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:41:22.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "M_Grade.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Models\\M_Grade.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\M_Grade.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Models\\M_Grade.cs",
+              "RelativeToolTip": "Project\\Models\\M_Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:37:25.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPasswordManagement.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Services\\IPasswordManagement.cs",
+              "RelativeDocumentMoniker": "Project\\Services\\IPasswordManagement.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Services\\IPasswordManagement.cs",
+              "RelativeToolTip": "Project\\Services\\IPasswordManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:38:27.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IGradeManagement.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Services\\IGradeManagement.cs",
+              "RelativeDocumentMoniker": "Project\\Services\\IGradeManagement.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Services\\IGradeManagement.cs",
+              "RelativeToolTip": "Project\\Services\\IGradeManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:38:27.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "M_Student.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Models\\M_Student.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\M_Student.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Models\\M_Student.cs",
+              "RelativeToolTip": "Project\\Models\\M_Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:37:30.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PasswordManagemant.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Services\\PasswordManagemant.cs",
+              "RelativeDocumentMoniker": "Project\\Services\\PasswordManagemant.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Services\\PasswordManagemant.cs",
+              "RelativeToolTip": "Project\\Services\\PasswordManagemant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:38:29.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Project\\Program.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Program.cs",
+              "RelativeToolTip": "Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:38:33.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GradeManagement.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Services\\GradeManagement.cs",
+              "RelativeDocumentMoniker": "Project\\Services\\GradeManagement.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Services\\GradeManagement.cs",
+              "RelativeToolTip": "Project\\Services\\GradeManagement.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:37:40.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InsertGrades.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Models\\InsertGrades.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\InsertGrades.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Models\\InsertGrades.cs",
+              "RelativeToolTip": "Project\\Models\\InsertGrades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:37:24.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "log-20241226.txt",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\logs\\log-20241226.txt",
+              "RelativeDocumentMoniker": "Project\\logs\\log-20241226.txt",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\logs\\log-20241226.txt",
+              "RelativeToolTip": "Project\\logs\\log-20241226.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-26T16:37:34.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "log-20241215.txt",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\logs\\log-20241215.txt",
+              "RelativeDocumentMoniker": "Project\\logs\\log-20241215.txt",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\logs\\log-20241215.txt",
+              "RelativeToolTip": "Project\\logs\\log-20241215.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-26T16:37:33.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Project.csproj",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Project.csproj",
+              "RelativeDocumentMoniker": "Project\\Project.csproj",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\Project\\Project.csproj",
+              "RelativeToolTip": "Project\\Project.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-12T08:16:21.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GradeDO.csproj",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\GradeDO\\GradeDO.csproj",
+              "RelativeDocumentMoniker": "GradeDO\\GradeDO.csproj",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\\u05E6\u05D9\u05D1\u05D9 \u05D6\u05DC\u05D5\u05D8\u05E0\u05D9\u05E7 \u05D5\u05DE\u05E8\u05D9\u05DE\u05D9 \u05E6\u05D3\u05E7\u05D4\\GradeDO\\GradeDO.csproj",
+              "RelativeToolTip": "GradeDO\\GradeDO.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T12:41:15.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

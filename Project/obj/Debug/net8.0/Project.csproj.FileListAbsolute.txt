@@ -1,0 +1,169 @@
+H:\Server\Project\Project\Project\bin\Debug\net8.0\appsettings.Development.json
+H:\Server\Project\Project\Project\bin\Debug\net8.0\appsettings.json
+H:\Server\Project\Project\Project\bin\Debug\net8.0\Project.exe
+H:\Server\Project\Project\Project\bin\Debug\net8.0\Project.deps.json
+H:\Server\Project\Project\Project\bin\Debug\net8.0\Project.runtimeconfig.json
+H:\Server\Project\Project\Project\bin\Debug\net8.0\Project.dll
+H:\Server\Project\Project\Project\bin\Debug\net8.0\Project.pdb
+H:\Server\Project\Project\Project\bin\Debug\net8.0\GradeDO.dll
+H:\Server\Project\Project\Project\bin\Debug\net8.0\GradeDO.pdb
+H:\Server\Project\Project\Project\obj\Debug\net8.0\Project.csproj.AssemblyReference.cache
+H:\Server\Project\Project\Project\obj\Debug\net8.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+H:\Server\Project\Project\Project\obj\Debug\net8.0\Project.AssemblyInfoInputs.cache
+H:\Server\Project\Project\Project\obj\Debug\net8.0\Project.AssemblyInfo.cs
+H:\Server\Project\Project\Project\obj\Debug\net8.0\Project.csproj.CoreCompileInputs.cache
+H:\Server\Project\Project\Project\obj\Debug\net8.0\Project.MvcApplicationPartsAssemblyInfo.cache
+H:\Server\Project\Project\Project\obj\Debug\net8.0\staticwebassets.build.json
+H:\Server\Project\Project\Project\obj\Debug\net8.0\staticwebassets.development.json
+H:\Server\Project\Project\Project\obj\Debug\net8.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Server\Project\Project\Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Project.props
+H:\Server\Project\Project\Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+H:\Server\Project\Project\Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project.props
+H:\Server\Project\Project\Project\obj\Debug\net8.0\staticwebassets.pack.json
+H:\Server\Project\Project\Project\obj\Debug\net8.0\scopedcss\bundle\Project.styles.css
+H:\Server\Project\Project\Project\obj\Debug\net8.0\Project.csproj.Up2Date
+H:\Server\Project\Project\Project\obj\Debug\net8.0\Project.dll
+H:\Server\Project\Project\Project\obj\Debug\net8.0\refint\Project.dll
+H:\Server\Project\Project\Project\obj\Debug\net8.0\Project.pdb
+H:\Server\Project\Project\Project\obj\Debug\net8.0\Project.genruntimeconfig.cache
+H:\Server\Project\Project\Project\obj\Debug\net8.0\ref\Project.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Serilog.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Serilog.AspNetCore.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\Serilog.Sinks.File.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\System.IO.Pipelines.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\System.Text.Json.dll
+H:\server\Project\Project\Project\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\refint\Project.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.pdb
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\appsettings.Development.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\appsettings.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Project.exe
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Project.deps.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Project.runtimeconfig.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Project.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Project.pdb
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Serilog.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Serilog.AspNetCore.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Serilog.Sinks.File.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\System.IO.Pipelines.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\System.Text.Json.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\GradeDO.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\GradeDO.pdb
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.csproj.AssemblyReference.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.AssemblyInfoInputs.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.AssemblyInfo.cs
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.csproj.CoreCompileInputs.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.MvcApplicationPartsAssemblyInfo.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\staticwebassets.build.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\staticwebassets.development.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Project.props
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project.props
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\staticwebassets.pack.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\scopedcss\bundle\Project.styles.css
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.csproj.Up2Date
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.genruntimeconfig.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\הגשת פרויקט\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\ref\Project.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\appsettings.Development.json
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\appsettings.json
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Project.staticwebassets.endpoints.json
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Project.exe
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Project.deps.json
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Project.runtimeconfig.json
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Project.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Project.pdb
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Serilog.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\System.Text.Json.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\GradeDO.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\bin\Debug\net8.0\GradeDO.pdb
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.csproj.AssemblyReference.cache
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.AssemblyInfoInputs.cache
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.AssemblyInfo.cs
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.csproj.CoreCompileInputs.cache
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\scopedcss\bundle\Project.styles.css
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\staticwebassets.build.json
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\staticwebassets.development.json
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\staticwebassets\msbuild.Project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Project.props
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project.props
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project.props
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\staticwebassets.pack.json
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.csproj.Up2Date
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\refint\Project.dll
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.pdb
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\Project.genruntimeconfig.cache
+D:\פרויקטים סרבר\ציבי זלוטניק ומרימי צדקה\Project\obj\Debug\net8.0\ref\Project.dll

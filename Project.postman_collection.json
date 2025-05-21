@@ -1,0 +1,459 @@
+{
+	"info": {
+		"_postman_id": "e05deead-9e4b-4279-8bf6-0e003f808cd2",
+		"name": "Project",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "40658119"
+	},
+	"item": [
+		{
+			"name": "studentController",
+			"item": [
+				{
+					"name": "add student",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7220/api/StudentManeger/Add?ID=3589&Name=orit",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7220",
+							"path": [
+								"api",
+								"StudentManeger",
+								"Add"
+							],
+							"query": [
+								{
+									"key": "ID",
+									"value": "3589"
+								},
+								{
+									"key": "Name",
+									"value": "orit"
+								},
+								{
+									"key": "ID",
+									"value": "1234",
+									"disabled": true
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get after post",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7220/api/StudentManeger",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7220",
+							"path": [
+								"api",
+								"StudentManeger"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get specfic student",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7220/api/StudentManeger/show?id=11111111",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7220",
+							"path": [
+								"api",
+								"StudentManeger",
+								"show"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "11111111"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "put student",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7220/api/StudentManeger/update?id=11111111&name=miriamush",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7220",
+							"path": [
+								"api",
+								"StudentManeger",
+								"update"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "11111111"
+								},
+								{
+									"key": "name",
+									"value": "miriamush"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "delete specific student",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7220/api/StudentManeger/Delete?id=11111111",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7220",
+							"path": [
+								"api",
+								"StudentManeger",
+								"Delete"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "11111111"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get students after delete",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7220/api/StudentManeger",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7220",
+							"path": [
+								"api",
+								"StudentManeger"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "gradeController",
+			"item": [
+				{
+					"name": "insert grade to id",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"idList\":[\"22222222\",\"33333333\"],\r\n    \"grades\":[99,88]\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7220/api/GradeManager/InsertGrades?code=1",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7220",
+							"path": [
+								"api",
+								"GradeManager",
+								"InsertGrades"
+							],
+							"query": [
+								{
+									"key": "code",
+									"value": "1"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "update grade",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7220/api/GradeManager/Update?id=22222222&ExeNumber=2&GradeNumber=69",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7220",
+							"path": [
+								"api",
+								"GradeManager",
+								"Update"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "22222222"
+								},
+								{
+									"key": "ExeNumber",
+									"value": "2"
+								},
+								{
+									"key": "GradeNumber",
+									"value": "69"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "show grade",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7220/api/GradeManager/ShowGrade?code=2",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7220",
+							"path": [
+								"api",
+								"GradeManager",
+								"ShowGrade"
+							],
+							"query": [
+								{
+									"key": "code",
+									"value": "2"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "calc final grade",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7220/api/GradeManager/CalcGrade?id=22222222",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7220",
+							"path": [
+								"api",
+								"GradeManager",
+								"CalcGrade"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "22222222"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "show all grades",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7220/api/GradeManager",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7220",
+							"path": [
+								"api",
+								"GradeManager"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "watchingGradeController",
+			"item": [
+				{
+					"name": "last grade",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7220/api/WatchingGrade/Last?id=33333333&pass=33333333",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7220",
+							"path": [
+								"api",
+								"WatchingGrade",
+								"Last"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "33333333"
+								},
+								{
+									"key": "pass",
+									"value": "33333333"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "wanted exe ",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7220/api/WatchingGrade/Wanted?id=33333333&pass=33333333&code=2",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7220",
+							"path": [
+								"api",
+								"WatchingGrade",
+								"Wanted"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "33333333"
+								},
+								{
+									"key": "pass",
+									"value": "33333333"
+								},
+								{
+									"key": "code",
+									"value": "2"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "test grade",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7220/api/WatchingGrade/TestGrade?id=22222222&pass=22222222",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7220",
+							"path": [
+								"api",
+								"WatchingGrade",
+								"TestGrade"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "22222222"
+								},
+								{
+									"key": "pass",
+									"value": "22222222"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "final grade",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7220/api/WatchingGrade/FinalGrade?id=33333333&pass=33333333",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7220",
+							"path": [
+								"api",
+								"WatchingGrade",
+								"FinalGrade"
+							],
+							"query": [
+								{
+									"key": "id",
+									"value": "33333333"
+								},
+								{
+									"key": "pass",
+									"value": "33333333"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
