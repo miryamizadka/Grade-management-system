@@ -1,6 +1,6 @@
 # 🎓 Grade Management System
 
-**ASP.NET Core ** application developed in **C#**, designed to efficiently manage student grades with advanced features including secure access control, detailed grade tracking, configurable parameters, and comprehensive reporting.
+**ASP.NET Core** application developed in **C#**, designed to efficiently manage student grades with advanced features including secure access control, detailed grade tracking, configurable parameters, and comprehensive reporting.
 
 ---
 
