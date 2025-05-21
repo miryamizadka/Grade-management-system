@@ -100,11 +100,6 @@ dotnet ef database update
 dotnet run
 ```
 
-- Swagger available at: `https://localhost:<port>/swagger`
-
----
-
-
 ## 👨‍💻 Author
 
 Developed by miryamizadka.
